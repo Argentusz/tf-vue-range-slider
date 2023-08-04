@@ -10,7 +10,7 @@
     "vuejs",
     "stylus"
   ],
-  "author": "xwpongithub",
+  "author": "Argentusz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Argentusz/tf-vue-range-slider"
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Argentusz/tf-vue-range-slider",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Argentusz/vue-range-slider.git"
+    "url": "git@github.com:Argentusz/tf-vue-range-slider.git"
   },
   "browserslist": [
     "iOS >= 7",
