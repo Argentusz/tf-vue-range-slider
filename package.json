@@ -1,6 +1,6 @@
 {
-  "name": "vue-range-component",
-  "version": "1.0.3",
+  "name": "tf-vue-range-component",
+  "version": "1.0.0",
   "description": "A range slider component based on vue (Vue滑块组件).",
   "main": "dist/vue-range-slider.js",
   "module": "dist/vue-range-slider.esm.js",
@@ -13,12 +13,12 @@
   "author": "xwpongithub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xwpongithub/vue-range-slider/issues"
+    "url": "https://github.com/Argentusz/tf-vue-range-slider"
   },
-  "homepage": "https://github.com/xwpongithub/vue-range-slider",
+  "homepage": "https://github.com/Argentusz/tf-vue-range-slider",
   "repository": {
     "type": "git",
-    "url": "git@github.com:xwpongithub/vue-range-slider.git"
+    "url": "git@github.com:Argentusz/vue-range-slider.git"
   },
   "browserslist": [
     "iOS >= 7",
